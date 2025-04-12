@@ -1,0 +1,30 @@
+show
+info
+help
+insert 55
+name
+11
+11
+11
+true
+usual
+11
+2000 02 02
+insert 23
+name
+11
+11
+true
+usual
+11
+2000 02 02
+insert 90
+ff
+ff
+ff
+ff
+fff
+f
+ff
+ff
+helppppp

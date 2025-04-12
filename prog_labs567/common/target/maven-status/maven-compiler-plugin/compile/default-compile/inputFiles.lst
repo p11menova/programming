@@ -1,0 +1,15 @@
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/models/TicketType.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/interaction/UserAuthStatus.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/Main.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/interaction/Status.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/interaction/ResponseStatus.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/interaction/PasswordHasher.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/models/Person.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/interaction/Response.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/utility/Printable.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/utility/ZonedDateTimeDeserializer.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/models/Coordinates.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/models/DBModels/TicketWithMetadata.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/models/DBModels/UserData.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/interaction/Request.java
+/Users/sergejpimenov/IdeaProjects/ProgLab_567/common/src/main/java/org/common/models/Ticket.java
