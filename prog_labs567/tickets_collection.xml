@@ -1,0 +1,18 @@
+<tickets>
+  <ticket>
+    <id>0</id>
+    <name>name</name>
+    <coordinates>
+      <x>11.0</x>
+      <y>11</y>
+    </coordinates>
+    <creationDate>19.05.2024 03:09</creationDate>
+    <price>11</price>
+    <refundable>true</refundable>
+    <tickettype>USUAL</tickettype>
+    <person>
+      <birthday>02.02.2000 00:00</birthday>
+      <height>11.0</height>
+    </person>
+  </ticket>
+</tickets>
